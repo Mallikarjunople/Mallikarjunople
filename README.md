@@ -1,4 +1,4 @@
-![Hey there, I'm Mallikarjun. I'm a software developer, a maker and technology enthusiast. Check out my work](<iframe src="https://giphy.com/embed/l0NwGpoOVLTAyUJSo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/batmanvsuperman-batman-v-superman-bat-signal-l0NwGpoOVLTAyUJSo">via GIPHY</a></p>)
+![Hey there, I'm Mallikarjun. I'm a software developer, a maker and technology enthusiast. Check out my work]()
 
 <!--
 **Mallikarjunople/Mallikarjunople** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
