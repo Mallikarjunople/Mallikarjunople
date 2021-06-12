@@ -1,4 +1,4 @@
-![Hey there, I'm Mallikarjun. I'm a software developer, a maker and technology enthusiast. Check out my work]()
+
 
 <!--
 **Mallikarjunople/Mallikarjunople** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
