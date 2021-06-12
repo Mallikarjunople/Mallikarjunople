@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Mallikarjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjunople&show_icons=true&theme=radical)
+![Mallikarjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjunople&show_icons=true&theme=gotham)
 
 [![Mallikarjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjunople)](https://github.com/Mallikarjunople/github-readme-stats)
 
