@@ -14,6 +14,9 @@
 - 📬 I’m looking to contribute to Open Source projects. 
 - 💬 Ask me about anything related to Computer Science or Batman!
 
+ <h4>Coding Handles</h4>
+ <a href="https://leetcode.com/the_mallikarjun_/" target="_blank">
+ <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 
 <p>&nbsp;</p>
 
